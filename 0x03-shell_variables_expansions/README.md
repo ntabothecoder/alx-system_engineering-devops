@@ -1,1 +1,1 @@
-2. The path to success is to take massive, determined action
+Create a script that lists environment variables.
